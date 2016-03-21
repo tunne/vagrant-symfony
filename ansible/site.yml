@@ -34,6 +34,6 @@
     - curl
     - sqlite
     - wget
-    - rabbitmq
+    #- rabbitmq
     - redis
     - memcached
